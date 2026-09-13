@@ -1,5 +1,5 @@
 {
-  "name": "June-X Ultra",
+  "name": "levanter",
   "description": "Professional WhatsApp Bot with auto-session authentication",
   "repository": "",
   "build": {
@@ -13,7 +13,7 @@
   },
   "variables": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your session token (june-ultra:~...) from the pairing page",
+      "description": "REQUIRED: Your session token (levanter_...) from the pairing page",
       "required": true
     },
     "REPO_URL": {
